@@ -1,7 +1,7 @@
 Koen Deboiserie
 ============
 
-![My Image](C:\Users\KOENDBSR\Code\1617.nmdad1.gitnotes\Images\profiel.jpg)
+![My Image](/Images/profiel.jpg)
 
 -----------------------------------------------
 Kleine Heerweg 126      
