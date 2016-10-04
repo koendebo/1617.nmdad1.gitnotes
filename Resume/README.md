@@ -23,7 +23,7 @@ Education
 Technical Experience
 --------------------
 
-Programming Languages
+### Programming Languages
 
 Knowledge of **HTML**, **CSS**, **Javascript**, **jQuery**
 
