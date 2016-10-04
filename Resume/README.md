@@ -25,5 +25,5 @@ Technical Experience
 
 Programming Languages
 
-:   Basic knowledge of **HTML**, **CSS**, **Javascript**, **jQuery**
+Knowledge of **HTML**, **CSS**, **Javascript**, **jQuery**
 
