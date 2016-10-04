@@ -1,7 +1,7 @@
 Koen Deboiserie
 ============
 
-![My Image](/Images/profiel.jpg)
+![My Image](../images/profiel.jpg)
 
 -----------------------------------------------
 Kleine Heerweg 126      
