@@ -1,17 +1,19 @@
+Resumé
+==========
+
 Koen Deboiserie
-============
+----------------
 
 ![My Image](/Images/Profiel.jpg)
 
------------------------------------------------
-Kleine Heerweg 126      
-Beveren-Leie 8791                       
-Belgium         
-koen.deboiserie@student.arteveldehs.be                 
------------------------------------------------
 
-Education
----------
+####Kleine Heerweg 126      
+####Beveren-Leie 8791                       
+####Belgium         
+####koen.deboiserie@student.arteveldehs.be                 
+
+
+###Education
 
 2007-2014
 :   **Modern Sciences & Languages**; O.-L.-V.- Hemelvaart Institution Waregem
@@ -22,8 +24,8 @@ Education
 
 
 
-Technical Experience
---------------------
+####Technical Experience
+
 
 #### **Programming Languages**
 
