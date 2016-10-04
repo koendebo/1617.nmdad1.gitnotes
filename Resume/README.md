@@ -7,10 +7,8 @@ Koen Deboiserie
 ![My Image](/Images/Profiel.jpg)
 
 
-####Kleine Heerweg 126      
-####Beveren-Leie 8791                       
-####Belgium         
-####koen.deboiserie@student.arteveldehs.be                 
+#### **Address:** Kleine Heerweg 126, Beveren-Leie 8791, Belgium         
+#### **E-mail:** koen.deboiserie@student.arteveldehs.be                 
 
 
 ###Education
