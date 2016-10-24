@@ -46,4 +46,21 @@
   var app = new ITunesApp();
   app.loadData();
 
+this.updateUI = function(){
+
+    var tempStr = '';
+    tempStr += '<table classic="mdl-data-table mdl-js-data-table mdl-data-table-selectable-mdl-shadow--2dp">'
+    tempStr += '<thead>';
+    tempStr += '<tr>';
+    tempStr += '<th class="mdl-data-table__cell-non-numeric">Album</th>';
+    tempStr += '<th></th>';
+    tempStr += '<th>Artist</th>';
+    tempStr += '<th>Genre</th>';
+    tempStr += '<th>Price</th>';
+    tempStr += '</tr>';
+    for(var i=0;i<this.results.length;i++)
+}
+
+
+
 })();
